@@ -5,7 +5,7 @@ This repository contains all the code and data to reproduce a study with the sam
 
 ## Usage
 
-You can directly see the notebook of the experiments rendered opening it here on github.
+You can directly see the notebook of the experiments rendered opening it [here](https://github.com/lucaventurini/timecrime/blob/master/Spectral%20analysis%20of%20crimes%20in%20San%20Francisco.ipynb) on github.
 
 Or you can rerun it on your computer installing [jupyter](http://jupyter.readthedocs.io/).
 
