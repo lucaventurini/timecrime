@@ -3,6 +3,14 @@ A spectral analysis of crimes in San Francisco
 
 This repository contains all the code and data to reproduce a study with the same title, submitted to UrbanGIS '16.
 
+## Usage
+
+You can directly see the notebook of the experiments rendered opening it here on github.
+
+Or you can rerun it on your computer installing [jupyter](http://jupyter.readthedocs.io/).
+
+Remember to unzip the data!
+
 ## Credits
 
 The San Francisco map is © OpenStreetMap contributors, and licensed as [CC BY-SA](http://www.openstreetmap.org/copyright).
