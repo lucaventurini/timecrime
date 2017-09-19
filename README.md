@@ -11,6 +11,12 @@ Or you can rerun it on your computer installing [jupyter](http://jupyter.readthe
 
 Remember to unzip the data!
 
+## References
+To reference this work, please cite:
+> Luca, Venturini; Elena, Baralis  (2016) 
+ A spectral analysis of crimes in San Francisco.  
+> In: UrbanGIS 16, Burlingame, California (USA), October 31 - 31, 2016. Available at: http://porto.polito.it/2653425/1/spectral_analysis_crimes_15_.pdf
+
 ## Credits
 
 The San Francisco map is © OpenStreetMap contributors, and licensed as [CC BY-SA](http://www.openstreetmap.org/copyright).
